@@ -4,7 +4,8 @@ catchPhrases = {
     "дайте мне": ["рука в говне"],
 
     "вы заебали;вы меня заебали": ["http://cs.pikabu.ru/images/big_size_comm/2013-12_5/13878250367568.gif",
-                                   "https://media.giphy.com/media/jz6ulvBQtoyOc/giphy.gif"],
+                                   "https://media.giphy.com/media/jz6ulvBQtoyOc/giphy.gif",
+                                   "узбагойся"],
 
     "пойду посру;пойду посрать": ["http://risovach.ru/upload/2013/08/mem/muzhik-bleat_26371179_orig_.jpg",
                                   "http://risovach.ru/upload/2014/01/mem/chak-norris_41392559_orig_.jpg"],
