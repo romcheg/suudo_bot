@@ -1,12 +1,4 @@
 catchPhrases = {
-    "хуй;dick;пенис;penis": ["http://krisa-gothic.narod.ru/copy2/huy2.jpg",
-                             "http://www.reactiongifs.com/wp-content/uploads/2013/11/reverse.gif",
-                             "http://svalko.org/data/2014_01_11_11_34_334190_1.jpeg",
-                             "https://media.giphy.com/media/xThuWhBjBgKftTL7QQ/giphy.gif",
-                             "https://media.giphy.com/media/EHKNZ0ICJoypq/giphy.gif",
-                             "https://media.giphy.com/media/T4ERcmFmhwGIw/giphy.gif",
-                             "https://media.giphy.com/media/SfFBnj1bCve48/giphy.gif"],
-
     "я хочу": ["все хотят", "хоти дальше"],
 
     "дайте мне": ["рука в говне"],
